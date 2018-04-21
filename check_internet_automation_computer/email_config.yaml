@@ -1,0 +1,9 @@
+title: LAN connection is down
+body: LAN connection switched to Wifi on automation computer
+attachPath: NA
+recipient: thomas.beaudouin@bamilo.com
+senderEmail: bamilo.automation@mail.com
+senderName: bamilo.automation
+senderPw: golangisgreat
+smtpAddr: smtp.mail.com
+smtpPort: 587
