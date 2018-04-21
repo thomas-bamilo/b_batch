@@ -1,9 +1,0 @@
-title: LAN and WIFI ARE DOWN
-body: LAN and WIFI ARE DOWN on automation computer! Resolve ASAP!
-attachPath: NA
-recipient: thomas.beaudouin@bamilo.com
-senderEmail: bamilo.automation@mail.com
-senderName: bamilo.automation
-senderPw: golangisgreat
-smtpAddr: smtp.mail.com
-smtpPort: 587

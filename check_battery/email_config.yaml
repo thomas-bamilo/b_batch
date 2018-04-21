@@ -1,9 +1,0 @@
-title: Power off on automation computer
-body: Power was switched off on automation computer - please check there are no main issues - find enclosed battery level
-attachPath: last_battery_level.txt
-recipient: thomas.beaudouin@bamilo.com
-senderEmail: bamilo.automation@mail.com
-senderName: bamilo.automation
-senderPw: golangisgreat
-smtpAddr: smtp.mail.com
-smtpPort: 587
